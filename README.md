@@ -1,13 +1,11 @@
-## Hi! I'm Anastasia 👋
+### Hi! I'm Anastasia 👋
 
-### 👩🏻‍💻 About Me 
+## 👩🏻‍💻 About Me 
 iOS Developer with a frontend background and 5+ years of experience in international projects.  
 Passionate about creating user-friendly iOS applications with interactive UX.  
 I enjoy collaborating with teams, participating in code reviews, and turning ideas into reliable solutions.
 
----
-
-### 🛠 Technology Stack
+## 🛠 Technology Stack
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-000000?style=for-the-badge&logo=apple&logoColor=white)
@@ -23,24 +21,16 @@ I enjoy collaborating with teams, participating in code reviews, and turning ide
 ![UI Testing](https://img.shields.io/badge/UI%20Testing-FFD700?style=for-the-badge&logo=xcode&logoColor=white)
 
 
----
+## 🤝 Soft Skills
 
-### 🤝 Soft Skills
+Agile / Scrum • Code Reviews • Problem-Solving • Task-Driven
 
-| 💡 Agile / Scrum | 🛠 Code Reviews | 🧩 Problem-Solving | ✅ Task-Driven |
-|-----------------|----------------|------------------|----------------|
-
----
-
-### 🌟 Highlights
+## 🌟 Highlights
 - Developed apps used by thousands of users internationally  
 - Implemented clean architecture and MVVM in multiple projects  
 - Optimized app performance and UX  
 
----
-
-### ✉️ Contact
+## ✉️ Contact
 - **Telegram**: [@Evd_anastasia](https://t.me/Evd_anastasia)  
 - **Email**: [evdokimovich95@gmail.com](mailto:evdokimovich95@gmail.com)
 
----
